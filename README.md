@@ -1,7 +1,4 @@
-## I'm Kandil 👋
-
-
-
+<h1>🎓 Kandil Reemtohsun | Information Technology Student💻</h1>
 
 ## 📊 GitHub Stats
 <img alt="github stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ONESHOEz&show_icons=true"/>
