@@ -1,5 +1,12 @@
 ## I'm Kandil 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONESHOEz)](https://github.com/ONESHOEz/github-readme-stats)
+
+
+
+
+## 📊 GitHub Stats
+<img alt="github stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ONESHOEz&show_icons=true"/>
+<img alt="top lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONESHOEz&layout=compact"/>
+
 <!--
 **ONESHOEz/ONESHOEz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
